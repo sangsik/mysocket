@@ -1,5 +1,3 @@
-package com.lgcns.test;
-
 public class RequestVO {
 	private int QueueSize;
 	private String Message;
