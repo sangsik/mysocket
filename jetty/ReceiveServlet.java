@@ -1,5 +1,3 @@
-package com.lgcns.test;
-
 import java.io.IOException;
 import java.util.Random;
 
