@@ -1,5 +1,3 @@
-package com.lgcns.test;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.LinkedBlockingDeque;
